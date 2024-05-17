@@ -1550,7 +1550,7 @@ li:last-child::after {
 /* Content Third Section */
 .third-section {
     border-radius: 12px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.5)), url('banner.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.781), rgba(0, 0, 0, 0.5)), url('newsletter.jpeg');
     background-size: 100% 150%;
     background-repeat: no-repeat;
     color: #fff;
